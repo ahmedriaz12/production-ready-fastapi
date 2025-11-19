@@ -118,7 +118,7 @@ For the team development environment:
 
 ## Setup Guide
 
-This backend application is setup with `Docker`. Nevertheless, you can see the full local setup without `Docker` in [backend/README.md](https://github.com/ahmedriaz12/production-ready-fastapi/blob/trunk/backend/README.md).
+This backend application is setup with `Docker`. Nevertheless, you can see the full local setup without `Docker` in [backend/README.md](https://github.com/ahmedriaz12/production-ready-fastapi/backend/README.md).
 
 1. Before setting up the backend app, please create a new directory called `coverage` for the testing report purpose:
    ```shell
