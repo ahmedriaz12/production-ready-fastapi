@@ -1,31 +1,4 @@
 <h1 align=center><strong>FastAPI Backend Application Template</strong></h1>
-
-<div align=center>
- <a href="https://github.com/ahmedriaz12/production-ready-fastapi/actions/workflows/ci-backend.yaml">
-  <img src="https://github.com/ahmedriaz12/production-ready-fastapi/actions/workflows/ci-backend.yaml/badge.svg"/> 
- </a>
-
- <a href="https://codecov.io/gh/ahmedriaz12/production-ready-fastapi">
-  <img src="https://codecov.io/gh/ahmedriaz12/production-ready-fastapi/branch/trunk/graph/badge.svg?token=1hiVayuLRl"/> 
- </a>
-
- <a href="https://github.com/pre-commit/pre-commit">
-  <img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit" alt="pre-commit" style="max-width:100%;">
- </a>
-
- <a href="https://github.com/psf/black">
-  <img src="https://img.shields.io/badge/code%20style-black-000000.svg">
- </a>
-
- <a href="https://pycqa.github.io/isort/">
-  <img src="https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336">
- </a>
-
- <a href="http://www.mypy-lang.org/static/mypy_badge.svg">
-  <img src="https://camo.githubusercontent.com/59eab954a267c6e9ff1d80e8055de43a0ad771f5e1f3779aef99d111f20bee40/687474703a2f2f7777772e6d7970792d6c616e672e6f72672f7374617469632f6d7970795f62616467652e737667" alt="check with mypy" style="max-width:100%;">
- </a>
-</div>
-
 <br>
 
 This is a template repository aimed to kick-start your project with a setup from a real-world application! This template utilizes the following tech stack:
